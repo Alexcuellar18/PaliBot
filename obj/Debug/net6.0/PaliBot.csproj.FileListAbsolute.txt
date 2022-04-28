@@ -1,0 +1,15 @@
+C:\Users\aleja\source\repos\PaliBot\bin\Debug\net6.0\PaliBot.exe
+C:\Users\aleja\source\repos\PaliBot\bin\Debug\net6.0\PaliBot.deps.json
+C:\Users\aleja\source\repos\PaliBot\bin\Debug\net6.0\PaliBot.runtimeconfig.json
+C:\Users\aleja\source\repos\PaliBot\bin\Debug\net6.0\PaliBot.dll
+C:\Users\aleja\source\repos\PaliBot\bin\Debug\net6.0\PaliBot.pdb
+C:\Users\aleja\source\repos\PaliBot\obj\Debug\net6.0\PaliBot.csproj.AssemblyReference.cache
+C:\Users\aleja\source\repos\PaliBot\obj\Debug\net6.0\PaliBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\source\repos\PaliBot\obj\Debug\net6.0\PaliBot.AssemblyInfoInputs.cache
+C:\Users\aleja\source\repos\PaliBot\obj\Debug\net6.0\PaliBot.AssemblyInfo.cs
+C:\Users\aleja\source\repos\PaliBot\obj\Debug\net6.0\PaliBot.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\PaliBot\obj\Debug\net6.0\PaliBot.dll
+C:\Users\aleja\source\repos\PaliBot\obj\Debug\net6.0\refint\PaliBot.dll
+C:\Users\aleja\source\repos\PaliBot\obj\Debug\net6.0\PaliBot.pdb
+C:\Users\aleja\source\repos\PaliBot\obj\Debug\net6.0\PaliBot.genruntimeconfig.cache
+C:\Users\aleja\source\repos\PaliBot\obj\Debug\net6.0\ref\PaliBot.dll
