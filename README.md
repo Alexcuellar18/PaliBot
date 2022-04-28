@@ -6,7 +6,7 @@ Application is a .Net6 console application built in Visual Studio Code. Users wi
 1)User must enter a paragraph to have the bot parse for palindrome sentences and words. 
 2)User must enter a letter to list all words that contain that letter.
 
-App will then output the folling values:
+App will then output the following values:
 1) number of palindrome words
 2) number of palindrome sentences
 3) List all unique words and the amount of unique words within paragraph
