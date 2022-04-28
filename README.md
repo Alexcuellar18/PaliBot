@@ -10,4 +10,9 @@ App will then output the folling values:
 1) # of palindrome words
 2) #of palindrome sentences
 3) List all unique words and the amount of unique words within paragraph
-4) List all words that contain the letter that user submitted,
+4) List all words that contain the letter that user submitted
+
+
+
+
+![paliBotConsole](https://user-images.githubusercontent.com/35432839/165678139-0b244566-d0a2-4101-be07-7aa874a6e6f0.png)
