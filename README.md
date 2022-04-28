@@ -7,8 +7,8 @@ Application is a .Net6 console application built in Visual Studio Code. Users wi
 2)User must enter a letter to list all words that contain that letter.
 
 App will then output the folling values:
-1) # of palindrome words
-2) #of palindrome sentences
+1) number of palindrome words
+2) number of palindrome sentences
 3) List all unique words and the amount of unique words within paragraph
 4) List all words that contain the letter that user submitted
 
